@@ -129,5 +129,5 @@ dmypy.json
 .pyre/
 
 # Ignore data tables and descriptions 
-.tsv
-.pdf
+*.tsv
+*.pdf
