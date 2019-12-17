@@ -131,3 +131,4 @@ dmypy.json
 # Ignore data tables and descriptions 
 *.tsv
 *.pdf
+*.json
