@@ -25,7 +25,7 @@ and Outcome State(success or fail)
 
 ## CLASSIFICATION MODELS
 For this classification problem I used the following models:
-Single Decision Tree, Random Forest, ADA Boost, Gradient Boost, XGBboost, KNN, SVM and Logistic Regression
+Single Decision Tree, Random Forest, ADA Boost, Gradient Boost, XGBboost, KNN, SVC and Logistic Regression
 All models performed exceedingly well with Accuracy scored ranging from 92% to 99%
 
 ## CONCLUSION
